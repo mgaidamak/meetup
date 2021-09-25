@@ -1,5 +1,7 @@
 = Title Slide
-:revealjsdir: gh-pages
+:revealjs_controls: true
+:revealjs_progress: true
+:revealjs_slideNumber: c
 
 == Slide One
 
