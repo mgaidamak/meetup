@@ -1,5 +1,4 @@
 # Public talks
 
-## Teams
+[Teams](teams) talk about teams, leads and processes.
 
-Talk about teams.
